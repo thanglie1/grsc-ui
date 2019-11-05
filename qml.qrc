@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.cpp</file>
+        <file>data/variables.js</file>
+        <file>qml/HeaderBar.qml</file>
+        <file>qml/Dashboard.qml</file>
+        <file>qml/Applications.qml</file>
+        <file>qml/MissingPatches.qml</file>
+        <file>res/ic_circle_3.png</file>
+        <file>res/ic_launcher.png</file>
+        <file>qml/ApplicationDetails.qml</file>
+        <file>qml/LineAndScatterChart.qml</file>
+        <file>qml/DataDemo.qml</file>
+        <file>qml/PieChart.qml</file>
+        <file>qml/Settings.qml</file>
+    </qresource>
+</RCC>
